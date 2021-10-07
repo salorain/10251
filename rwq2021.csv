@@ -1,0 +1,19 @@
+Sample ID,E. coli CFU/100mL,Coliform CFU/100mL,Mycobacterium CFU/100mL,DOC (mg/L),UV254 (l/cm),SUVA (L/mg-m),TDN (mg/L,Location,Describtion
+32111,98,230,5,3.6,0.054,1.5,0.638,R11,CAP Canal at Cross-connect
+32125,250,360,19,3.8,0.036,0.9,0.544,R25,Verde River @ Beeline
+32156,180,300,9,3.8,0.072,1.9,0.522,56th,AZ Canal at 56th St.
+42111,68,638,29,3.8,0.056,1.5,0.646,R11,CAP Canal at Cross-connect
+42125,43,821,15,3.6,0.087,2.4,0.741,R25,Verde River @ Beeline
+42156,68,1122,39,5.8,0.131,2.3,0.574,56th,AZ Canal at 56th St.
+52111,98,230,5,3.3,0.093,2.8,0.357,R11,CAP Canal at Cross-connect
+52125,250,360,19,3.8,0.036,0.9,0.544,R25,Verde River @ Beeline
+52156,180,300,9,3.8,0.072,1.9,0.522,56th,AZ Canal at 56th St.
+62111,41,512,24,7.9,0.114,1.4,0.93,R11,CAP Canal at Cross-connect
+62125,135,967,79,59.9,0.134,0.2,15.8,R25,Verde River @ Beeline
+62156,37,543,22,5.8,0.169,2.9,0.46,56th,AZ Canal at 56th St.
+72111,176,652,0,5,0.091,1.8,0.543,R11,CAP Canal at Cross-connect
+72125,1500,1500,9,4,0.131,3.3,0.633,R25,Verde River @ Beeline
+72156,1500,1500,10,7.1,0.18,2.5,0.52,56th,AZ Canal at 56th St.
+82111,400,,0,,,,,R11,CAP Canal at Cross-connect
+82125,400,,0,,,,,R25,Verde River @ Beeline
+82156,550,,3,,,,,56th,AZ Canal at 56th St.
