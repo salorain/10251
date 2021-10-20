@@ -1,19 +1,49 @@
-Sample ID,E. coli CFU/100mL,Coliform CFU/100mL,Mycobacterium CFU/100mL,DOC (mg/L),UV254 (l/cm),SUVA (L/mg-m),TDN (mg/L,Location,Describtion
-32111,98,230,5,3.6,0.054,1.5,0.638,R11,CAP Canal at Cross-connect
-32125,250,360,19,3.8,0.036,0.9,0.544,R25,Verde River @ Beeline
-32156,180,300,9,3.8,0.072,1.9,0.522,56th,AZ Canal at 56th St.
-42111,68,638,29,3.8,0.056,1.5,0.646,R11,CAP Canal at Cross-connect
-42125,43,821,15,3.6,0.087,2.4,0.741,R25,Verde River @ Beeline
-42156,68,1122,39,5.8,0.131,2.3,0.574,56th,AZ Canal at 56th St.
-52111,98,230,5,3.3,0.093,2.8,0.357,R11,CAP Canal at Cross-connect
-52125,250,360,19,3.8,0.036,0.9,0.544,R25,Verde River @ Beeline
-52156,180,300,9,3.8,0.072,1.9,0.522,56th,AZ Canal at 56th St.
-62111,41,512,24,7.9,0.114,1.4,0.93,R11,CAP Canal at Cross-connect
-62125,135,967,79,59.9,0.134,0.2,15.8,R25,Verde River @ Beeline
-62156,37,543,22,5.8,0.169,2.9,0.46,56th,AZ Canal at 56th St.
-72111,176,652,0,5,0.091,1.8,0.543,R11,CAP Canal at Cross-connect
-72125,1500,1500,9,4,0.131,3.3,0.633,R25,Verde River @ Beeline
-72156,1500,1500,10,7.1,0.18,2.5,0.52,56th,AZ Canal at 56th St.
-82111,400,,0,,,,,R11,CAP Canal at Cross-connect
-82125,400,,0,,,,,R25,Verde River @ Beeline
-82156,550,,3,,,,,56th,AZ Canal at 56th St.
+Sample ID,Season,E. coli CFU/100mL,Coliform CFU/100mL,Mycobacterium CFU/100mL,DOC (mg/L),UV254 (l/cm),SUVA (L/mg-m),TDN (mg/L,Location,Describtion
+32111,Winter,98,230,5,3.6,0.054,1.5,0.638,R11,CAP Canal at Cross-connect
+32125,Winter,250,360,19,3.8,0.036,0.9,0.544,R25,Verde River @ Beeline
+32156,Winter,180,300,9,3.8,0.072,1.9,0.522,56th,AZ Canal at 56th St.
+42111,Spring,68,638,29,3.8,0.056,1.5,0.646,R11,CAP Canal at Cross-connect
+42125,Spring,43,821,15,3.6,0.087,2.4,0.741,R25,Verde River @ Beeline
+42156,Spring,68,1122,39,5.8,0.131,2.3,0.574,56th,AZ Canal at 56th St.
+52111,Spring,98,230,5,3.3,0.093,2.8,0.357,R11,CAP Canal at Cross-connect
+52125,Spring,250,360,19,3.8,0.036,0.9,0.544,R25,Verde River @ Beeline
+52156,Spring,180,300,9,3.8,0.072,1.9,0.522,56th,AZ Canal at 56th St.
+62111,Spring,41,512,24,7.9,0.114,1.4,0.93,R11,CAP Canal at Cross-connect
+62125,Spring,135,967,79,5.99,0.134,0.2,1.58,R25,Verde River @ Beeline
+62156,Spring,37,543,22,5.8,0.169,2.9,0.46,56th,AZ Canal at 56th St.
+72111,Summer,176,652,0,5,0.091,1.8,0.543,R11,CAP Canal at Cross-connect
+72125,Summer,1500,1500,9,4,0.131,3.3,0.633,R25,Verde River @ Beeline
+72156,Summer,1500,1500,10,7.1,0.18,2.5,0.52,56th,AZ Canal at 56th St.
+82111,Summer,400,,0,,,,,R11,CAP Canal at Cross-connect
+82125,Summer,400,,0,,,,,R25,Verde River @ Beeline
+82156,Summer,550,,3,,,,,56th,AZ Canal at 56th St.
+121911,Fall,,,39,2.8,0.015,0.5,0.339,R11,CAP Canal at Cross-connect
+121925,Fall,,,34,,,,,R25,Verde River @ Beeline
+121956,Fall,220,500,70,3.7,0.064,1.7,0.275,56th,AZ Canal at 56th St.
+12011,Winter,160,19,31,2.8,0.015,,0.338,R11,CAP Canal at Cross-connect
+12025,Winter,,,21,,,,,R25,Verde River @ Beeline
+12056,Winter,220,800,10,3.7,0.064,1.7,0.333,56th,AZ Canal at 56th St.
+22011,Winter,19,135,,3.1,0.055,,0.447,R11,CAP Canal at Cross-connect
+22025,Winter,,,34,,,,,R25,Verde River @ Beeline
+22056,Winter,1500,1500,,6.4,0.316,4.9,0.919,56th,AZ Canal at 56th St.
+52011,Spring,8,1500,2,3.9,0.008,0.205128205,0.5472,R11,CAP Canal at Cross-connect
+52025,Spring,57,820,21,4.245,0.063,1.48409894,0.7857,R25,Verde River @ Beeline
+52056,Spring,37,980,0,3.166,0.077,2.432090967,0.7588,56th,AZ Canal at 56th St.
+62011,Spring,31,391,14,5.477,0.209,3.815957641,0.4324,R11,CAP Canal at Cross-connect
+62025,Spring,47,120,20,5.472,0.226,4.130116959,0.3484,R25,Verde River @ Beeline
+62056,Spring,160,1500,2,5.283,0.201,3.804656445,0.5004,56th,AZ Canal at 56th St.
+72011,Summer,225,1500,20,3.397,0.079,2.325581395,0.2721,R11,CAP Canal at Cross-connect
+72025,Summer,95,460,19,5.007,0.17,3.395246655,0.2637,R25,Verde River @ Beeline
+72056,Summer,51,420,9,4.59,0.152,3.311546841,0.323,56th,AZ Canal at 56th St.
+82011,Summer,44,580,9,3.578,0.053,1.481274455,0.2807,R11,CAP Canal at Cross-connect
+82025,Summer,1500,1500,9,4.387,0.2,4.558924094,0.3794,R25,Verde River @ Beeline
+82056,Summer,475,1500,23,4.802,0.141,2.936276551,0.4386,56th,AZ Canal at 56th St.
+92011,Summer,39,1500,9,4.791,0.121,2.525568775,0.4687,R11,CAP Canal at Cross-connect
+92025,Summer,,,,,,,,R25,Verde River @ Beeline
+92056,Summer,14,426,20,4.953,0.13,2.624671916,0.5313,56th,AZ Canal at 56th St.
+102011,Fall,62,550,7,4.27,0.123,2.880562061,0.2639,R11,CAP Canal at Cross-connect
+102025,Fall,15,250,29,4.009,0.122,3.043152906,0.2873,R25,Verde River @ Beeline
+102056,Fall,80,1500,11,4.277,0.139,3.249941548,0.2632,56th,AZ Canal at 56th St.
+112011,Fall,120,320,0,3.785,0.028,0.739762219,1.706,R11,CAP Canal at Cross-connect
+112025,Fall,1500,1500,15,3.774,0.047,1.24536301,1.762,R25,Verde River @ Beeline
+112056,Fall,1500,1500,33,4.131,0.092,2.227063665,1.752,56th,AZ Canal at 56th St.
